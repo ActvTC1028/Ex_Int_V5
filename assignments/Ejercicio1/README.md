@@ -1,5 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Divide una lista por número de caracteres
+# Divide una lista porque empiezan por...
 ## Involucra ciclos, listas, condicionales
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:

@@ -46,9 +46,12 @@ Una serie de datos acomodados en forma de tabla que contiene los caracteres **&*
 & & &
 ```
 ## Otro ejemplo más
-& _
+```
+>>> 2
+& _ 
 & &
 ```
+
 ## Ultimo ejemplo
 ```
 >>> 21
